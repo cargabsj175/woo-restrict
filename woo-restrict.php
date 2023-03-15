@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Restringir Woocommerce
- * Plugin URI: https://github.com/cargabsj175
+ * Plugin URI: https://github.com/cargabsj175/woo-restrict
  * Description: Plugin que restringe el acceso a productos y carrito en WooCommerce a usuarios no logueados.
  * Version: 1.1.3
  * Author: cargabsj175
