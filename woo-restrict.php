@@ -5,7 +5,7 @@
  * Description: Plugin que restringe el acceso a productos y carrito en WooCommerce a usuarios no logueados.
  * Version: 1.1.3
  * Author: cargabsj175
- * Author URI: https://github.com
+ * Author URI: https://github.com/cargabsj175
  * License: GPL3
  **/
 
